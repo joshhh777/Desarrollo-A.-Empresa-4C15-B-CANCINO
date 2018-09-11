@@ -1,0 +1,58 @@
+                                     LABORATORIO 03
+ Apellidos y Nombres: Cancino Mamani Jose Carlos
+ Grupo: C15-B
+ Ciclo: IV
+ 
+ CREANDO CONTROLADORES
+  El codigo se encuentra en la carpeta de GestorImagen
+
+ CREANDO RUTAS EN LARAVEL
+     1. Resultado del punto 3 de esta sección mediante la imagen adjunta(3.1.png)
+   Probando la ruta para Validado
+     1. Resultado del punto 8 de esta sección mediante la imagen adjunta(3.2.png)
+   Para omitir el control de validación de usuario
+     1. Resultados de esta sección medinate las imagenes adjuntas(3.4.png y 3.5.png)
+   Demostracion de ingreso de una URL inexistente con el texto "not found page"
+    en la imgaen adjunta(3.6.png)
+
+ CREANDO LAS PRIMERAS VISTAS
+   Probando la funcionalidad del código 
+    1. Resultado de ingresar la URl http://gestorlaravel.com mediante la imagen
+       adjunta(3.7.png)
+
+ CREANDO LAS VISTAS
+   1.Resultado de la demostración del punto 11 de esta sección al ingresar la 
+     siguiente URL http://gestorlaravel.com/validacion/inicio en la imagen adjunta
+     (3.8.png)
+   2. Resultado del link registrarse en la imagen adjunta(3.9.png)
+   3. Resultado de la vista de recuperar contraseña en las imagenes adjuntas
+      (3.10.png y 3.11.png)
+ 
+  Se adjuntara el codigo de GestoImagen el cual ya se encuentra modificado por el avance
+  hasta cierta parte del laboratorio 4.
+
+
+     OBSERVACIONES:
+	-El uso de controladores, modelos y vistas en importante para poder definir
+         la funcionalidad que va a tener nuestro proyecto.
+	-Debemos llamar a nuestros archivos o archivos nombres que puedan estar de
+         la mano con la funcionalidad que tienen para que no pueda haber confusión.
+        -Se debe de tener en cuentra la ruta que se coloca en la URL ya que en este
+         laboratorio trabajamos con gestorlaravel mas no con el localhost.
+	-Las vistas brindar orden y un mejor aspecto a nuestro programa para que
+         el usuario pueda entender de una manera mejora de que se trata.
+        -Podemos redirigir las páginas que tenemos disponibles para poder brindar 
+ 	 secuencia adecuada de ejecución del programa.
+
+     CONCLUSIONES:
+	-Elaboramos modelos, vistas y controladores de acuerdo a lo planteado a lo
+	 largo del laboratorio.
+	-Cada archivo creado en nuestro proyecto tiene una funcionalidad en especifico
+	 para poder complementar su funcionamiento.
+	-Cada URL ingresada nos lleva a una ruta distinta de acuerdo a lo ingresado
+ 	 como URL; con esto vemos que el programa funciona adecuadamente.
+	-Desarrollamos vistas de tal forma que el programa sea mas facil de entender
+	 para los usuarios y tengan una mejor interacción.
+	-Gracias a este laboratorio aprendemos la manera en que se debe construir
+	 nuestros modelos, vistas y controladores.
+
