@@ -1,0 +1,26 @@
+ Apellidos y Nombres: Cancino Mamani Jose Carlos
+ Grupo: C15-B
+ Ciclo: IV
+ 1. Instalacion de COMPOSER 
+    Se demuestra la instalacion de composer en la siguiente imagen(composer.png)
+ 2.Creacion del proyecto con la estructura Laravel:
+    Se demuestra la creación exitosa del proyecto en la siguiente imagen(proyecto.png)
+ 3.Ingresamos al link correspondiente para su verificación
+    Se demuestra el resultado en la siguiente imagen(laravel.png)
+
+ OBSERVACIONES:
+   	-Composer es un manejador de dependencias mas no de un gestor de paquetes, además que instala las librerías que se requiere para el desarrollo de su proyecto.
+	-La instalación de Composer se debe verificar mediante la terminal con el comando indicado en el laboratorio.
+	-Debemos de seguir los pasos adecuados en la instalación de los programas para no tener 
+	 inconvenientes en lo futuro
+	-La verificación de la instalación de laravel se realizo por medio de la creación de un proyecto 
+	 juntamente con un link de ruta para su ejecución
+	-Se debe de tener en proceso apache de Xampp para poder visualizar el funcionamiento de laravel
+	-Es necesario cambiar de puerto en apache si es que ya esta siendo utilizado para resolver los errores presentados
+
+ CONCLUSIONES:
+      	-Laravel es un framework con el objetivo de usar una sintaxis refinada y expresiva para crear código de forma compleja, permitiendo la multitud de funcionalidades.
+	-La mayor parte de la estructura de Laravel esta formada por dependencias especialmente de Symfony.
+	-Verificamos cada una de las instalaciones de los programas correspondientes a este laboratorio para su correcto uso en el futuro.
+	-Cambiamos el puerto que usaba apache en Xampp ya que nos presentaba erro al momento de iniciarlo.
+	-Gracias a este laboratorio conocemos la correcta instalación de Laravel.
