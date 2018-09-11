@@ -1,0 +1,41 @@
+ 			        LABORATORIO 02
+ Apellidos y Nombres: Cancino Mamani Jose Carlos
+ Grupo: C15-B
+ Ciclo:IV
+
+ CREANDO UN DOMINIO LOCAL.
+  1. Se adjunta imagen de la demostración del punto 2 de esta sección(nom_dom.png)
+  2. Se adjunta imagen de la demostración del punto 4 de esta sección(modificacion.png)
+ 
+ CREANDO LA BASE DE DATOS PARA EL PROYECTO.
+  1. Se adjunta imagen del punto 2 de esta sección que resulta de la creación de la base
+     de datos en PhpMyAdmin(base_datos.png)
+  
+ CONFIGURANDO EL ENTORNO Y EL PROYECTO DEL LARAVEL.
+  Apartir de este punto es puro codificación por lo que estara demostrado en el codigo 
+  adjunto, ya se encuentra avanzado hasta cierta parte del laboratorio 4 
+  por lo que ya presenta modificaciones.
+
+    OBSERVACIONES:
+	-Modificamos el archivo de hosts para que poder colocar como dominio en
+  	 nuestro localhost a gestorlaravel.com.
+	-Creamos los distintos modelos que se haran uso en el proyecto planteado 
+  	 en el laboratorio.
+	-Se debe de configurar el entorno laravel para poder trabajar la codificación
+ 	 a lo largo del laboratorio.
+	-Debemos configurar o modificar los archivos existentes de tal forma que sean
+	 entendibles para nosotros para su uso.
+	-El trait nos ayuda a poder reutilizar código para poder facilitarnos el 
+	 trabajo.
+	
+    CONCLUSIONES:
+	-A partir de ahora trabajeremos con gestorlaravel por lo que no se hara uso
+	 del localhost en la mayoria de casos.
+	-La creación de modelos nos permite visualizar o analizar la funcionalidad
+	 que va a cumplir el programa.
+	-Realizamos diferentes configuraciones y modificaciones a lo largo del laboratorio
+	 para poder entender su funcionalidad.
+	-Aplicamos código php para la modificaciónde los archivos dentro del 
+	 proyecto.
+	-Trait nos facilitó el trabajo al poder reutilizar código y así reutilizar 
+	 su código.
