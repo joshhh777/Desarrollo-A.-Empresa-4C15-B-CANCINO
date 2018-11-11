@@ -1,0 +1,51 @@
+                         Lab 05 - Laravel Requests II y Archivos
+Apellidos y Nombres: Cancino Mamani Jose Carlos
+Especialidad: C15-B
+Ciclo: IV
+
+CREANDO LA FUNCIONALIDAD: ACTUALIZAR PERFIL DE USUARIO.
+	1.Ingresa al sistema y verificar si resulta la opción de actualizar perfil. Se
+	  adjunta imagen del resultado obtenido(1.png).
+	2.Demostracion del ingreso de datos en la opcion actualizar perfil, ademas de	
+	  obtener el mensaje que se realizó los cambios de manera exitos. Se adjunta
+	  imagenes de los resultados(3.png y 4.png).
+CREANDO LA FUNCIONALIDAD DE MOSTRAR ÁLBUMES:
+	1.Ingresar al sistema con un usuario que posea álbumes, escoja la opción de
+	  ver álbumes y el resultado debe ser el siguiente. Se adjunta imagen(5.png).
+CREANDO LA FUNCIONALIDAD PARA MOSTRAR FOTOS:
+	1.Verificación de que una álbum presente las fotos correspondientes. Se adjunta	
+	  imagen del resultado(6.png).
+	2.Quebrar la seguridad del sistema, cambiando el id que presenta la opción
+	  ver fotos el resultado es el siguiente.Se adjunta imagenes del resultado
+	  obtenido(7.png y 8.png).
+INSERTANDO ALBUMES EN LA BASE DE DATOS:
+	1.Demostración de la creación de un albumprueba en la base de datos. Se adjunta	
+	  imagenes del resultado obtenido(9.png y 10.png)
+INSERTANDO FOTOS EN LA BASE DE DATOS:
+	1.Demostración de la creación de fotos en la base de datos con su respectiva	
+	  imagen a mostrar.Se adjunta imagenes del resultado logrado(11.png y 12.png)
+
+                    SE ADJUNTA LA CODIFICACIÓN EN DICHA CARPETA(GestorImagen)
+
+OBSERVACIONES:
+	-Se debe de ingresar el enlace correspondiente a cada página para que pueda 
+	 direccionar los resultados esperados.
+	-Importar las librerias a utilizar en cada archivo, permite usar métodos
+	 correspondientes a dicha librería.
+	-Declarar las variable de la manera correcta para poder utilizarlas de manera
+	 eficaz en los métodos respectivos.
+	-Los archivos request nos ayuda a controlar los datos ingresados por el usuario	
+	 para validar los datos que se encuentran en la base de datos.
+	-En algunas ocasiones se debe permitir la opcion para poder utilizar archivos	
+	 de nuestro ordenador, en este caso subir imagenes.
+
+CONCLUSIONES:
+	-Desarrollamos un actualizador de datos de usuario para cualquier cambio de	
+	 informacion respectivo.
+	-No podemos cambiar la información generada en nuestra página web.
+	-Los controladores nos ayudan a verificar los datos ingresados además de obtener 
+	 de maner correcta y verificable los resultados esperados.
+	-No se debe de ingresar datos que no poseen nuestras Tablas ya que no podra
+	 ejecutarse de manera eficaz.
+	-Hemos logrado llenar un  álbum con imágenes de tal forma que podemos comprobar
+	 la correcta codificación a lo largo del laboratorio.

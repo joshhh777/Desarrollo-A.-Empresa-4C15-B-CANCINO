@@ -1,0 +1,71 @@
+	Lab 04 - Laravel Seeders, Migraciones, Excepciones y Validación de Usuario
+Apellidos y Nombres: Cancino Mamani Jose Carlos
+Especialidad: C15-B
+Ciclo: IV
+
+CREANDO MIGRACION DE MODELOS A LA BASE DE DATOS:
+	1.Creacion de archivos de tablas albumes y fotos.Se adjuntan las imagenes de
+          su resultado(1.png y 2.png)
+	2.Verificacion mediante phpmyadmin que han sido creadas las tablas en la 
+	  base de datos respectivamente. Se adjunta la imagen(3.png)
+CREANDO SEEDERS:
+	1.Ejecucion de los seeder de las tablas respectivas.Se adjunta imagen(4.png)
+	2.Resultado de la base de datos despues de la ejecución de los seeders. Se
+	  adjunta la imagen respectiva(5.png)
+	       ¿Que sucedio? 
+		Vemos que las tablas ahora poseen datos respectivos creados 
+		anteriormente.
+CREANDO MENSAJES Y PÁGINAS DE EXCEPCIÓN PERSONALIZADAS:
+	1.Probando error general(para que se renderice cuando estamos en modo debug)
+	  asumimos que estamos en modo debug(true).Se adjunta imagen(6.png).
+	2.Error que se de por la excepcion de Token, al eliminar uno de estos y 
+	  hacer un submit.Se adjunta imagen(7.png).
+	3.Error producido por ingresar credenciales falsas al iniciar sesión.Se 
+	  adjunta imagen(8.png).
+ACCESO Y VALIDACION DE USUARIOS:
+	1.Se comprueba el inicio correcto de sesión al ingresar las credenciales 
+	  correspondientes generadas anteriormente.Se adjunta imagenes del resultado			
+	  obtenido(9.png y 10.png).
+	2.Modificación de la palabra usuario por el nombre del usuario que inició
+	  sesión con sus credenciales respectivas. Se adjunta imagen(11.png).
+	3.Registro de datos para tener una cuenta de inicio de sesión, ademas 
+	  se comprueba la existencia de dicho registro en la base de datos. Se
+	  adjunta imagenes del resultado obtenido(12.png, 13.png y 14.png).
+MODIFICACION DEL REQUEST DE INICIO DE SESION:
+    ¿Cual seria el proceso de crear un Request de nombre "RecuperarContrasenaRequest"?
+	Se crea este archivo ya para recuperar la contraseña de debe validar que los	
+	datos requeridos sean los indicados segun la base de datos, esto permite
+	un poco de seguridad hacia el usuario.	
+
+	Probando código:
+	1.Recuperar contraseña ingresando una pregunta o respuesta que no son 
+	  correctas. Se adjunta imagen del resultado(15.png)
+	2.Recuperar contraseña con todos los datos correctos. Se adjunta imagen 
+	  del resultado(16.png)
+	3.Se muestra la ventana de suceso para la recuperación de contraseña. Se 
+	  adjunta imagen del resultado(17.png).
+
+                       SE ADJUNTA LA CODIFICACION EN DICHA CARPETA.
+OBSERVACIONES:
+	-Se debe verificar en todo momento la ejecución efectiva de nuestro código,
+	 para esto se debe ver los resultados obtenidos ya sea para la creación de 
+	 tablas, seeder, etc.
+	-Se debe de crear las tablas con los elementos necesarios para presentar una	
+	 base de datos optima y sin redundancia de datos.
+	-Generar errores de sesión es importante para el usuario ya que esto permite
+	 de una forma proteger los datos del usuario además de brindar errores a los 
+	 usuarios para su conocimiento.
+	-Se debe de tener una conexión optima a la base de datos para poder manipular
+	 datos de las tablas creadas respectivamente.
+
+CONCLUSIONES:
+	-Creamos tablas y la llenamos de datos segun el proyecto requiere ademas de	
+	 enlazarlas mediante llaves foraneas para que guarden relacion entre sí.
+	-Se debe tener en cuenta el numero y nombre de cada dato de las tablas para
+ 	 no provocar error alguno.
+	-No se debe de omitir la importacion de librerias que requiere cada método 
+	 para obtener los resultados esperados.
+	-Interactuamos los diferente métodos creados para inicio de sesión, registro,
+	 etc. De esa forma logramos entender mas claramente la codificación en PHP.
+	-Gracias a este laboratorio logramos trabajar de manera la base de datos con
+	 laravel de tal forma que manipulamos los datos y tablas de dicha base de datos.
