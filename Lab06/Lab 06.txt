@@ -1,0 +1,37 @@
+			Lab 06 - Laravel Requests II y Archivos
+Apellidos y Nombres: Cancino Mamani Jose Carlos
+Especialidad: C15-B
+Ciclo: IV
+
+INSERTANDO ALBUMES EN LA BASE DE DATOS:
+	1.Demostración de la creación de un albumprueba en la base de datos. Se adjunta	
+	  imagenes del resultado obtenido(1.png y 2.png)
+INSERTANDO FOTOS EN LA BASE DE DATOS:
+	1.Demostración de la creación de fotos en la base de datos con su respectiva	
+	  imagen a mostrar.Se adjunta imagenes del resultado logrado(3.png y 4.png)
+
+		SE ADJUNTA EL CODIGO EN LA CARPETA GESTORIMAGEN
+OBSERVACIONES:
+	-Es importante tener un request por cada acción que se realiza en el 
+	 proyecto.
+	-Los request deben de trabajar de manera conjunta con las vistas 	
+	 correspondientes para mandar los datos adecuados.
+	-El id nos permite crear y mostrar en dichas vistas aqui vemos la importancia
+	 que tiene.
+	-Es necesario en algunas ocasiones el uso de librerias que nos permiten 
+	 realizar funciones que no se tiene por defecto.
+	-En algunas ocasiones es necesario habilitar el permiso a PHP para manejar
+	 la información que manejen los archivos en las aplicaciones.
+
+CONSLUSIONES:
+	-En cada request creado en el proyecto es necesario indicar los datos que 
+	 son importantes.
+	-Se debe de crear las vistas con los datos que se tiene en la base de datos	
+	 para que no haya error alguno.
+	-Usamos el id para enviar albumes o fotos creadas a nuestras vistas para 
+	 poder añadirlas correctamente.
+	-Debemos de conocer las librerias que se pueden utilizar en PHP para 
+	 poder usar sus funciones en nuestro proyecto.
+	-Gracias a este laboratorio logramos crear albumes y fotos en la base de datos
+	 al igual que en las vistas creadas.
+

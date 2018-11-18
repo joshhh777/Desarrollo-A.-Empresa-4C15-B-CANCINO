@@ -1,0 +1,41 @@
+			Lab 8 - Laravel Funcionalidad del Proyecto II
+Apellidos y Nombres: Cancino Mamani Jose Carlos
+Especialidad: C15-B
+Ciclio: IV
+
+CREANDO LA FUNCIONALIDAD PARA ELIMINAR ÁLBUMES Y FOTOS
+	1.Repuesta a la pregunta:
+	   ¿Será necesario usar un método getEliminarAlbum?
+	    No es necesario ya que no necesitamos mostrar dato alguno por lo 
+	    tanto no require obtener ningun valor solo la acción eliminar.
+	2.Demostración de la funcionalidad de eliminar un álbum. Se adjunta 
+	  imagenes del resultado obtenido(1.png y 2.png).
+	3.Explique:¿Que hacen las dos funciones importantes de este request?
+	  Primeramente se verifica si el usuario posee los permisos correspondientes
+	  para realizar dicha solicitud. De igual forma uno de los requisitos es	
+	  el id de las fotos que van a ser eliminadas.	
+	4.Demostración de la funcionalidad de eliminar una foto. Se adjunta 
+	  imagenes del resultado obtenido(3.png y 4.png).
+
+			SE ADJUNTA EL CODIGO EN LA CARPETA GESTORIMAGEN
+
+OBSERVACIONES:
+	-Solo se utiliza el método post para poder realizar la acción de eliminar
+	 un album o foto respectivo.
+	-En este tipo de acción es requerido el id ya que mediante este podemos 
+	 reconocer la foto o album a eliminar para que de igual forma ya no se 	
+	 encuentre en la base de datos.
+	-Se utiliza el método delete para realizar dicha acción y mandar un mensaje	
+	 para comprobar su eficacia.
+	-Se debe de tener presente la exitencia de la ruta o archivo que se desa eliminar	
+	 para no presentar error alguno.
+
+CONCLUSIONES:
+	-Modificamos cada uno de los POST a utilizar para poder brindarle la acción	
+	 respectiva de eliminar.
+	-Se debe conocer los id con los que trabajamos para poder manejar la data de	
+	 manera rápida y sencilla y realizar el respectivo CRUD.	
+	-Es importante brindar mensajes que muestren los resultados esperados.
+	-Gracias a este laboratorio logramos desarrollar una funcionalidad basica	
+	 que es eliminar data para ello se debe de estar a la mano con los id y el
+	 método POST respectivamente.	

@@ -1,0 +1,61 @@
+			Lab 7 - Laravel Funcionalidad del Proyecto
+Apellidos y Nombres: Cancino Mamani Jose Carlos
+Especialidad: C15-B
+Ciclo: IV
+
+CREANDO LA FUNCIONALIDAD PARA EDITAR ÁLBUM
+ 	1.Respuesta de la pregunta en el punto 5 de esta sección.
+	   ¿Que hicimos al agregar esa línea?
+  	    Estamos direccionando en un boton el enlace que nos permite editar un álbum
+	    por su id.
+	2.Respuesta de la pregunta en el punto 9 de esta sección.
+	   ¿De que se encarga la función authorize() en este Request?
+	    Determina si el usuario esta permitido para realizar dicha solicitud.
+	3.Respuesta de la pregunta en el punto 12 de esta sección.
+	   ¿Que se hizo en el código mostrado?
+	    Se esta verificando que todos los datos sean ingresados correctamente	
+            para poder ser modificados o actualizados.
+	4.Demostración del funcionamiento de editar un álbum.Se adjunta las imagenes
+	 correspondientes al resultado(1.png, 2png y 3png).
+CREANDO LA FUNCIONALIDAD PARA EDITAR UNA FOTO
+	1.Respuesta de la pregunta en el punto 15 de esta sección.
+	  ¿Que se hizo en esta función?
+	   Encuentra el id de la foto respectiva para luego mostrala con los cambios 
+	   respectivos.
+	2.Respuesta de la pregunta en el punto 22 de esta sección.
+	  ¿Que estamos haciendo en las dos funciones principales de este Request?
+	   Estamos verificando si el usuario presenta los permisos necesarios para	
+	   poder realizar dicha solicitud, y en rules indica todos los requerimientos	
+ 	   presentes que deben de tener los datos.
+	3.Respuesta de la pregunta en el punto 23 de esta sección.
+	   Explique linea a linea a linea el codigo que pretende hacer:
+	    Primeramente encuentra la foto por su id respectivo para que seguidamente	
+	    empiece a corroborar que los datos ingresados cumpla con los requisitos 
+	    respectivos.
+	   ¿Porque tiene que verificarse la ruta que exista?
+	    Debe de corroborarse que la ruta es valida para que asi muestre la imagen
+	    respectiva de lo contrario no mostrara ningún resultado esperado.
+	4.Respuesta de la pregunta en el punto 24 de esta sección.
+	   ¿Que hace el código de la vista?
+	    Podemos ver que hace llamado del with mediante la palabra editada para
+	    poder mostrar un mensaje del resultado de la función hecha.
+	5.Demostración del funcionamiento de editar una foto.Se adjunta las imagenes
+	 correspondientes al resultado(4.png, 5png y 6.png).
+		
+	             SE ADJUNTA EL CODIGO EN LA CARPETA GESTORIMAGEN
+
+OBSERVACIONES:
+	-Codificamos el link o ruta respectiva a la editación de albumes o fotos,	
+  	 para ver la vista generada.
+	-Se ingresa todos los datos requeridos por cada uno de los  métodos a utilizar,
+	 ya que son de un aspecto obligatorio para su eficaz funcionamiento.
+	-Es importante la ruta que manejan las imágenes para poder realizar su 	
+	 actualización respectiva.
+	-
+CONCLUSIONES:
+	-Validamos cada una de las acciones a realizar mediante las rutas ingresadas.
+	-Desarrollamos mensajes de comprobación de las consultas hechas o acciones
+	 realizadas de manera correcta.
+	-Gracias a este laboratorio aprendimos a desarrollar una funcionalidad básica 
+	 de CRUD.
+	
