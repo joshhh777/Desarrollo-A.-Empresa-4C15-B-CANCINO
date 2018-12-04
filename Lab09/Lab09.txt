@@ -1,0 +1,27 @@
+			   Lab 9 -  Mejora de la Aplicación
+Apellidos y Nombres: Cancino Mamani Jose Carlos
+Especialidad: C15-B
+Ciclo: IV
+
+MEJORANDO EL PROYECTO
+	1.Demostració del orden de columnas, los albume en 3 columnas y las fotos 
+	  en 4 columnas como máximo.Se adjunta imagenes de su demostración(1.png y
+	  2.png).
+
+COMANDO PARA REALIMENTAR LA BASE DE DATOS
+	1.Demostración de los resultados obtenidos ademas de el error generado como	
+	  se encuentra indicado en el laboratorio.Se adjunta imagenes del 
+	  resultado (3.png)
+	2.Iniciando Sesión con las credenciales creadas recientemente. Se adjunta
+	  imagenes de su demostración (4.png y 5.png)
+
+
+CONCLUSIONES:
+	-Ralizamos mejoras en el diseño de nuestros álbumes y fotos respectivamente.
+	-Desarrollamos la función de eliminar un album de tal forma que las fotos	
+   	 se eliminen del servidor.
+	-Realimentamos la base de datos volviendo a migrar y realizar los seeders
+	 de cada una de las tablas respectivamente.
+	-Logramos iniciar sesion con las credenciales creadas en la realimentación
+	-Gracias a este laboratorio logramos mejorar el diseño de nuestro proyecto
+	 ademas de conocer la realimentación de una base de datos.
